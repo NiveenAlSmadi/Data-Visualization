@@ -11,4 +11,4 @@ Today you’ll be telling a story visually. Choose 2 datasets from Kaggle (or bu
 - Finish time: 4:20 pm
 
 ## Links:
-PR Link :[linear-regression](https://github.com/NiveenAlSmadi/Data-Visualization/pull/1)
+PR Link :[Data-Visualization](https://github.com/NiveenAlSmadi/Data-Visualization/pull/1)
